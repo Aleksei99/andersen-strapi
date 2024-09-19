@@ -26,6 +26,7 @@
     "strapi-google-auth": "^0.2.1",
     "strapi-neon-tech-db-branches": "^0.1.18",
     "strapi-plugin-comments": "^2.3.1",
+    "strapi-plugin-sitemap": "^3.2.0",
     "styled-components": "5.3.3"
   },
   "author": {
